@@ -3,7 +3,8 @@
 </div>
 
 <p align="center">
-  Profissional de infraestrutura de TI baseado em Salvador, BA. Focado em projetar, manter e escalar arquiteturas confiáveis e seguras, com forte atuação no ecossistema Linux e automação de operações.
+  <b>Profissional de infraestrutura de TI | Salvador, BA.</b> <br>
+  Focado em projetar, manter e escalar arquiteturas confiáveis e seguras, com forte atuação no ecossistema Linux e automação de operações.
 </p>
 
 ---
@@ -39,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/u-est">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=u-est&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-est&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
