@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/u-est">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=u-est&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=u-estt)](https://github.com/stats-organization/github-stats-extended)"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-est&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
