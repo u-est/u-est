@@ -38,7 +38,7 @@
 ### 📊 Github Stats
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=u-est&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=u-est&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
 </div>
 
 ---
