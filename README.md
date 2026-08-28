@@ -35,12 +35,11 @@
 
 ---
 
-### 📊 Github Stats
+
 
 <div align="center">
   <a href="https://github.com/u-est">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=u-est&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-est&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 ---
