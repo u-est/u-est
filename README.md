@@ -9,16 +9,6 @@
 
 ---
 
-### 🎯 Foco de Atuação
-
-* **Gestão de Domínios & Identidade:** Administração de Active Directory, consolidação de florestas, políticas de grupo (GPOs) e controle de acesso corporativo.
-* **Virtualização & Migrações:** Planejamento arquitetônico, transição de sistemas legados para ambientes modernos e gestão de hypervisors.
-* **Automação & Orquestração:** Desenvolvimento de fluxos de trabalho avançados (Apache Airflow, Power Automate) e scripts (Python, Bash) para eliminação de tarefas manuais.
-* **Monitoramento & ITSM:** Implementação de telemetria proativa de infraestrutura (Zabbix) e estruturação de fluxos de helpdesk (GLPI).
-* **Containerização:** Deploy, sustentação e isolamento de serviços utilizando o ecossistema Docker.
-
----
-
 ### 💻 Tech Stack & Ferramentas
 
 <div align="center">
@@ -59,10 +49,10 @@
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/ueique" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@dominio.com" target="_blank">
+  <a href="mailto:eueique@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
