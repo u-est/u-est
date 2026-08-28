@@ -9,8 +9,6 @@
 
 ---
 
-### 💻 Tech Stack & Ferramentas
-
 <div align="center">
   
   **Infraestrutura, Virtualização & Domínios** <br>
